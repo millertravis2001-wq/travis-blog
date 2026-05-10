@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/travis-blog/p/hello-world/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/p/hello-world/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/categories/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/categories/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/tags/css/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/tags/css/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/tags/html/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/tags/html/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/tags/markdown/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/tags/markdown/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/p/markdown-syntax-guide/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/p/markdown-syntax-guide/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/post/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/post/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/categories/syntax/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/categories/syntax/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/tags/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/tags/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/categories/themes/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/categories/themes/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/tags/themes/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/tags/themes/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/p/image-gallery/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/p/image-gallery/</loc>
     <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/p/shortcodes/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/p/shortcodes/</loc>
     <lastmod>2023-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/p/math-typesetting/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/p/math-typesetting/</loc>
     <lastmod>2023-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/archives/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/categories/example-category/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/categories/example-category/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/tags/example-tag/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/tags/example-tag/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/page/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/links/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/travis-blog/search/</loc>
+    <loc>https://millertravis2001-wq.github.io/travis-blog/search/</loc>
   </url>
 </urlset>
