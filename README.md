@@ -8,7 +8,7 @@ It comes with a basic theme structure and configuration. GitHub action has been 
 
 ## Video Tutorial
 
-In case you got lost during the setup process, here's a video tutorial that setups a new Hugo site using this template, and deploys it to GitHub Pages: https://www.youtube.com/watch?v=8qDdQQ6Ifxo
+In case you got lost during the setup process, here's a video tutorial that setups a new Hugo site using this template, and deploys it to GitHub Pages: <https://www.youtube.com/watch?v=8qDdQQ6Ifxo>
 
 ## Get started
 
@@ -21,7 +21,7 @@ In case you got lost during the setup process, here's a video tutorial that setu
 3. While waiting for the codespace to be created, go to `Settings` -> `Pages` of your newly created repository, and set `Build and deployment` -> `Source` to `GitHub Actions`.
 ![Change build and deployment source](https://github.com/user-attachments/assets/192459bf-25d8-441e-8029-c108d789e449)
 
-4. After the codespace is created, you can test that the site is built successfully by running `hugo server` in the terminal and see your new site in action. 
+4. After the codespace is created, you can test that the site is built successfully by running `hugo server` in the terminal and see your new site in action.
 
 5. Check `config` folder for the configuration files. You can edit them to suit your needs. Make sure to update the `baseurl` property in `config/_default/config.toml` to your site's URL. For example, if your new repository is named `my-blog`, then the `baseurl` should be `https://<username>.github.io/my-blog/`.
 
@@ -29,7 +29,7 @@ In case you got lost during the setup process, here's a video tutorial that setu
 
 ---
 
-In case you don't want to use GitHub codespace, you can also run this template in your local machine. **You need to install Git, Go and Hugo extended locally.** For more information, check official Hugo documentation: https://gohugo.io/installation/
+In case you don't want to use GitHub codespace, you can also run this template in your local machine. **You need to install Git, Go and Hugo extended locally.** For more information, check official Hugo documentation: <https://gohugo.io/installation/>
 
 ## Update theme manually
 
@@ -44,4 +44,4 @@ hugo mod tidy
 
 ## Deploy to another static page hostings
 
-Check official Hugo documentation: https://gohugo.io/host-and-deploy/
+Check official Hugo documentation: <https://gohugo.io/host-and-deploy/>
